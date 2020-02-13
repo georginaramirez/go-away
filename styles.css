@@ -1,0 +1,33 @@
+html{
+    text-align:center;
+    }
+    body{
+    background-color: pink;
+}
+img{
+    width: 150px;
+}
+h1{
+    font-family: 'Indie Flower', cursive;
+}
+h2{
+    font-family: 'Amatic SC', cursive;
+}
+h2{
+     border: 1px dotted;
+    padding: 10px;
+}
+img{
+    border: 10px solid black;
+}
+h3{
+    font-family: 'Cinzel', serif;
+    text-decoration: line-through;
+}
+h4{
+    font-family: 'Patua One', cursive;
+}
+h5{
+    font-family: 'Poiret One', cursive;
+    font-size: 3px;
+}
